@@ -37,7 +37,7 @@ alias ec='autoCompilC.sh'
 
 Apply changes :
 ```cmd
-sources ~/.bashrc 
+source ~/.bashrc 
 ```
 
 Now you can executhe the script like this :
